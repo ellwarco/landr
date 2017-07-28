@@ -1,32 +1,52 @@
 {
   "assetsByChunkName": {
-    "commons": [
-      "commons-a0a1b3aa49a61d89a2b4.js",
-      "commons-a0a1b3aa49a61d89a2b4.js.map"
+    "component---users-gaudi-work-landr-packages-gatsby-plugin-landr-www-layouts-docs-js": [
+      "component---users-gaudi-work-landr-packages-gatsby-plugin-landr-www-layouts-docs-js-16a59db2998a6331d775.js",
+      "component---users-gaudi-work-landr-packages-gatsby-plugin-landr-www-layouts-docs-js-16a59db2998a6331d775.js.map"
     ],
-    "page-component---gatsby-plugin-landr-www-pages-index-js": [
-      "page-component---gatsby-plugin-landr-www-pages-index-js-55a7c25181f62a52520f.js",
-      "page-component---gatsby-plugin-landr-www-pages-index-js-55a7c25181f62a52520f.js.map"
+    "path---docs-how-it-works": [
+      "path---docs-how-it-works-c622427e03e6210f005b.js",
+      "path---docs-how-it-works-c622427e03e6210f005b.js.map"
     ],
-    "layout-component---index": [
-      "layout-component---index-ea7b233dd08f67bdd17e.js",
-      "layout-component---index-ea7b233dd08f67bdd17e.js.map"
+    "path---": [
+      "path----7b61475c1f0db89ef90d.js",
+      "path----7b61475c1f0db89ef90d.js.map"
     ],
-    "page-component---gatsby-plugin-landr-www-pages-changelog-js": [
-      "page-component---gatsby-plugin-landr-www-pages-changelog-js-1acb71455c912e01f74e.js",
-      "page-component---gatsby-plugin-landr-www-pages-changelog-js-1acb71455c912e01f74e.js.map"
+    "component---users-gaudi-work-landr-packages-gatsby-plugin-landr-www-pages-changelog-js": [
+      "component---users-gaudi-work-landr-packages-gatsby-plugin-landr-www-pages-changelog-js-1acb71455c912e01f74e.js",
+      "component---users-gaudi-work-landr-packages-gatsby-plugin-landr-www-pages-changelog-js-1acb71455c912e01f74e.js.map"
+    ],
+    "component---users-gaudi-work-landr-packages-gatsby-plugin-landr-www-layouts-index-js": [
+      "component---users-gaudi-work-landr-packages-gatsby-plugin-landr-www-layouts-index-js-aa24cb3735a211d7e0e2.js",
+      "component---users-gaudi-work-landr-packages-gatsby-plugin-landr-www-layouts-index-js-aa24cb3735a211d7e0e2.js.map"
+    ],
+    "path---docs": [
+      "path---docs-dd1ce29d2dd66b37f66a.js",
+      "path---docs-dd1ce29d2dd66b37f66a.js.map"
     ],
     "path---index": [
-      "path---index-878fa87b5f6b730961a7.js",
-      "path---index-878fa87b5f6b730961a7.js.map"
+      "path---index-0381b402a783b3d3bba6.js",
+      "path---index-0381b402a783b3d3bba6.js.map"
+    ],
+    "commons": [
+      "commons-c742ba35abe6e6de7b80.js",
+      "commons-c742ba35abe6e6de7b80.js.map"
     ],
     "path---changelog": [
-      "path---changelog-1e2064adb05f1f18a0a4.js",
-      "path---changelog-1e2064adb05f1f18a0a4.js.map"
+      "path---changelog-a670ea59e84419116579.js",
+      "path---changelog-a670ea59e84419116579.js.map"
     ],
     "app": [
-      "app-8987383dc23b234d407a.js",
-      "app-8987383dc23b234d407a.js.map"
+      "app-0fcac3972b61c6662d41.js",
+      "app-0fcac3972b61c6662d41.js.map"
+    ],
+    "component---users-gaudi-work-landr-packages-gatsby-plugin-landr-www-pages-index-js": [
+      "component---users-gaudi-work-landr-packages-gatsby-plugin-landr-www-pages-index-js-2f13eb4a038c64fc08ad.js",
+      "component---users-gaudi-work-landr-packages-gatsby-plugin-landr-www-pages-index-js-2f13eb4a038c64fc08ad.js.map"
+    ],
+    "component---users-gaudi-work-landr-packages-gatsby-plugin-landr-www-templates-docs-js": [
+      "component---users-gaudi-work-landr-packages-gatsby-plugin-landr-www-templates-docs-js-91be174890be1aa43781.js",
+      "component---users-gaudi-work-landr-packages-gatsby-plugin-landr-www-templates-docs-js-91be174890be1aa43781.js.map"
     ]
   }
 }
